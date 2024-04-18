@@ -22,10 +22,26 @@ background-attachment: fixed;
   height: 100vh;
   margin: 0;
   font-family: "Merriweather", serif;
+.description {
+  border: 5px solid rgb(220, 220, 58);
+   width: fit-content;
+   padding: 7px;
+     font-weight: bolder;
+     font-style: italic;
+     font-size: larger;
+     color:black;
 }
-  
+}
 
-.title {
+ .about {font-size: 40px;
+   color: rgb(255, 0, 204);
+   text-align: center;
+   margin: 30px;} 
+   
+   
+   ul {list-style-type: square;}
+
+   .title {
 color: rgb(220, 220, 58);
 font-family: "Bungee", sans-serif;
 font-size: 50px;
